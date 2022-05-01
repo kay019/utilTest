@@ -1,6 +1,6 @@
 package util;
 
-public class main {
+public class Main {
 
     public static String testUtil(String phone){
 
@@ -41,11 +41,11 @@ public class main {
         String phone3 = "054-123-4566";
         String phone4 = "010-123-4566";
 
-        System.out.println(main.testUtil(phone));
-        System.out.println(main.testUtil(phone1));
-        System.out.println(main.testUtil(phone2));
-        System.out.println(main.testUtil(phone3));
-        System.out.println(main.testUtil(phone4));
+        System.out.println(Main.testUtil(phone));
+        System.out.println(Main.testUtil(phone1));
+        System.out.println(Main.testUtil(phone2));
+        System.out.println(Main.testUtil(phone3));
+        System.out.println(Main.testUtil(phone4));
 
 
    }
